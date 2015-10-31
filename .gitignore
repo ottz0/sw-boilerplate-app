@@ -1,7 +1,2 @@
 node_modules
 app/components
-
-!app/css
-!app/fonts
-!app/images
-!app/sass
